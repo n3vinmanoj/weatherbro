@@ -13,7 +13,7 @@ import (
 )
 
 // --- Configuration ---
-const API_KEY = "7441f0ec33ab2221a2f7285fbb1f2c93" // REMEMBER TO REPLACE THIS WITH YOUR ACTUAL KEY
+const API_KEY = "// REMEMBER TO REPLACE THIS WITH YOUR ACTUAL KEY"
 const BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 // --- Global variable to track if --show flag was explicitly set ---
